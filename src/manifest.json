@@ -3,7 +3,6 @@
   "description": "Youtube always on top windows",
   "version": "1.0.0",
   "manifest_version": 2,
-  "minimum_chrome_version": "63",
   "app": {
     "background": {
       "scripts": ["background.js"]
