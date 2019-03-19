@@ -1,3 +1,5 @@
-# Chrome Extension to Always on Top Windows
+# Always on top Windows
+
+Chrome extension to keep on top active windows
 
 ## LICENSE
